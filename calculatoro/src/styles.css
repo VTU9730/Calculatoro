@@ -11,8 +11,10 @@ button{
 }
 #app{
     background-color: rgb(254, 255, 255);
-    text-align: center;
-    margin: 0;
-    border: solid 1px rgb(216, 151, 151);
-    padding: 20px;
+    text-align: center; 
+    width:165px;
+    margin: auto;
+}
+p{
+    text-align: right;
 }
